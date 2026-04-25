@@ -1,6 +1,6 @@
 import numpy as np
 
-class LinearRegression:
+class SimpleLinearRegression:
     def __init__(self):
         self.coef_ = None      # Slope
         self.intercept_ = None # Intercept
